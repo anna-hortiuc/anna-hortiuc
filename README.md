@@ -16,10 +16,11 @@ I like projects that start with a real question and end with something people wa
 ## 📂 Projects
 
 **Machine Learning**
+
 - [Linear regression from scratch](https://github.com/anna-hortiuc/linear-regression-from-scratch): the math behind ML, no libraries
-- [Logistic regression](https://github.com/anna-hortiuc/logistic-regression-classification): classification
-- [Neural network: binary classification](https://github.com/anna-hortiuc/neural-network-binary-classification)
-- [Neural network: multiclass classification](https://github.com/anna-hortiuc/neural-network-multiclass-classification)
+- [Logistic regression](https://github.com/anna-hortiuc/logistic-regression-classification): binary classification with gradient descent
+- [Neural network: binary classification](https://github.com/anna-hortiuc/neural-network-binary-classification): handwritten digits 0 vs 1, from scratch in NumPy and with TensorFlow
+- [Neural network: multiclass classification](https://github.com/anna-hortiuc/neural-network-multiclass-classification): handwritten digit recognition 0–9 with TensorFlow (ReLU, Softmax)
 
 **Data Analysis**
 - [Tesla vs. GameStop](https://github.com/anna-hortiuc/tesla-gamestop-analysis): financial time-series analysis
@@ -29,7 +30,7 @@ I like projects that start with a real question and end with something people wa
 
 **Languages:** `Python` · `SQL`
 
-**Data & ML:** `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Plotly`
+**Data & ML:** `pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `Matplotlib` · `Plotly`
 
 **BI & Analytics:** `Power BI` · `KNIME` · `Excel`
 

@@ -11,7 +11,7 @@ I like projects that start with a real question and end with something people wa
 - 📊 Working as a data analyst
 - 🐍 Deepening my Python and software development skills
 - 🤖 Building machine learning models from scratch to understand how they really work
-- 🚀 Current project: The German Labour Market Paradox (coming soon)
+- 🚀 Current project: **The German Labour Market Paradox — and What Comes Next**: unemployment, skills shortages and the jobs of the future (coming soon)
 
 ## 📂 Projects
 
